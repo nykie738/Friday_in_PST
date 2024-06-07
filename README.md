@@ -24,5 +24,6 @@ If you actually do not know about the "Today is Friday in California" meme, here
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9WaYCdQ8FOQ/0.jpg)](https://www.youtube.com/watch?v=9WaYCdQ8FOQ)
 
 You can also find the lore behind this meme here:
+
 https://knowyourmeme.com/memes/today-is-friday-in-california
 
