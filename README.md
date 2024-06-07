@@ -3,7 +3,7 @@
 
 Yep, it is the well-known "Today is Friday in California" meme.
 
-Honestly, you can just follow the X bot that tweets the meme video every Friday in Pacific Standard Time (PST). However, I thought of this as a good opportunity to learn how to write an html file and open it through codes.
+Honestly, you can just follow the X bot that posts the meme video every Friday in Pacific Standard Time (PST). However, I thought of this as a good opportunity to learn how to write an html file and open it through codes.
 
 ## Installation
 The program uses "pytz". If it is not installed in your (or your friend's) computer, the program will not operate properly. Please confirm that the required libraries are installed (if the computer does not have python, you will need to start from downloading python).
