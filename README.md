@@ -11,7 +11,7 @@ The program uses "pytz". If it is not installed in your (or your friend's) compu
 pip install pytz
 ```
 
-So, what if you live in California? Well, in that case, line 10 in caliFriday.py is redundant. You may remove it but keep in mind that line 11 needs to be changed to "if today.weekday() == 4" when line 10 is removed. Otherwise, make sure that caliFriday.py and TIFIC.html are in the same directory. If they are, then you"re good to go!
+So, what if you live in California? Well, in that case, line 10 in caliFriday.py is redundant. You may remove it but keep in mind that line 11 needs to be changed to "if today.weekday() == 4" when line 10 is removed. Otherwise, make sure that caliFriday.py and TIFIC.html are in the same directory. If they are, then you're good to go!
 
 ## How to run the program on terminal (not complex):
 ```
