@@ -19,7 +19,7 @@ python caliFriday.py
 ```
 
 ## Appendix
-If you actually do not know about the "Today is Friday in California" meme, here's the vid:
+For those unfamiliar with the "Today is Friday in California" meme, here's the vid:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9WaYCdQ8FOQ/0.jpg)](https://www.youtube.com/watch?v=9WaYCdQ8FOQ)
 
